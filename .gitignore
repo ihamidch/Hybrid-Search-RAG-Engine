@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+my_ai_memory/
+temp_*/
